@@ -1,4 +1,4 @@
-##Customizing REST API token response
+## Customizing REST API token response
 
 Take a look at these files:
 * com.company.exttok.web.rest.CustomTokenEnhancer - enhances the token with additional data.
