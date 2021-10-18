@@ -1,0 +1,6 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context">
+
+    <bean id="tokenEnhancer" class="com.company.exttok.web.rest.CustomTokenEnhancer"/>
+
+</beans>
